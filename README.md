@@ -80,11 +80,3 @@ Ahmed – Your GitHub Profile
 
 If you found this app useful, give it a ⭐️ on GitHub and feel free to contribute or suggest improvements!
 
----
-
-Let me know if you'd like:
-- An Arabic version of the README
-- Help uploading to GitHub
-- How to export the app as `.apk` or `.ipa` for your phone
-
-I'm here to help 🚀
